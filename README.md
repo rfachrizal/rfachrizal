@@ -7,14 +7,14 @@ Freelance data analyst and processing with a focus on deriving value for client,
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have interest in Data Analytics, Blockchain, and Backpacking!
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Languages and Tools:
+#### Languages and Tools:
 
 - 👷 Engineering: Auto CAD, Arcgis, QGIS, Surpac, Agisoft, Envi, Microstation, Cloudcompare, etc.
 - 👨‍💻 Data Analytics: Microsoft Excel/Google Sheet, Python, SQL, Tableau, etc.
@@ -23,7 +23,7 @@ Freelance data analyst and processing with a focus on deriving value for client,
 
 ---
 
-### 📺 Latest Project
+#### 🎮 Latest Project
 
 <!-- PROJECT:START -->
 - [Exercise](https://github.com/rfachrizal)
