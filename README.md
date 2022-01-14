@@ -23,5 +23,5 @@ Freelance data analyst and processing with a focus on deriving value for client,
 - [Exercise](https://github.com/rfachrizal)
 - [Self Project](https://github.com/rfachrizal)
 
-[instagram]: https://www.instagram.com/fachrezal/]
-[linkedin]: https://www.linkedin.com/in/reza-fachrizal-679178197/]
+[instagram]: https://www.instagram.com/fachrezal
+[linkedin]: https://www.linkedin.com/in/reza-fachrizal-679178197
