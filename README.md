@@ -1,6 +1,6 @@
 ### Hi there, I'm Reza Fachrizal 👋 
 
-## Freelance data analyst and processing with a focus on deriving value for client, from the manipulation, cleansing, modeling, and visualization of data through the use of Python, SQL, and Tableau.
+Freelance data analyst and processing with a focus on deriving value for client, from the manipulation, cleansing, modeling, and visualization of data through the use of Python, SQL, and Tableau.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -9,17 +9,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-Engineering: Auto CAD, Arcgis, QGIS, Surpac, Agisoft, Envi, Microstation, Cloudcompare, etc.
-Data Analytics: Microsoft Excel/Google Sheet, Python, SQL, Tableau
+- 👷 Engineering: Auto CAD, Arcgis, QGIS, Surpac, Agisoft, Envi, Microstation, Cloudcompare, etc.
+- 👨‍💻 Data Analytics: Microsoft Excel/Google Sheet, Python, SQL, Tableau, etc.
 
-<br />
 <br />
 
 ---
