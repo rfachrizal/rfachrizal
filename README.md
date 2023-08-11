@@ -2,7 +2,7 @@
 
 Freelance data analyst and processing with a focus on deriving value for client, from the manipulation, cleansing, modeling, and visualization of data through the use of Python, SQL, and Tableau.
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have interest in Data Analytics, Blockchain, and Backpacking!
